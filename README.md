@@ -1,0 +1,1 @@
+Este programa ingresa 10 calificaciones, calcula el promedio, cuenta aprobados/reprobados y muestra el porcentaje de reprobados. Usa métodos para organizar las funciones. Se puede mejorar evitando cerrar `Scanner`, usando `double` para precisión en el promedio y optimizando el conteo de aprobados/reprobados. 🚀
